@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DB Challenge</string>
+    <string name="action_settings">Einstellungen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_title">Filme</string>
+    <string name="search_title">Suche</string>
+
+    <string name="clear">Löschen</string>
+    <string name="back">Zurück</string>
+
+    <string name="no_entries">Keine Einträge</string>
+
+    <string name="next">Nächste</string>
+    <string name="previous">Vorherige</string>
+
+    <string name="detailsRating">Wertung</string>
+</resources>
